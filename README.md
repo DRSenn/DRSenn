@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DRSenn
-- 👀 I’m interested in biology, data sciences and Rasppberry Pi
-- 🌱 I’m currently learning Python, R and I'm also new on GitHub
-- 💞️ I’m looking to collaborate once I'm better at programing
+
